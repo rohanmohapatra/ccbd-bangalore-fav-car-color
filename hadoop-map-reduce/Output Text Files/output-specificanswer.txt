@@ -1,0 +1,14 @@
+autogreen	146
+black	29
+blue	42
+bluishgrey	80
+darkblue	55
+darkred	34
+golden	11
+grey	146
+lightred	28
+red	2
+silver	94
+tintred	28
+vermillion	23
+white	363
