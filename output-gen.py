@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-f = open('listofcolors-general','r')
+f = open('output-generalanswer.txt','r')
 
 x = f.read()
 listofvals=[]
