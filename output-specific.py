@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-f = open('output-specific.txt','r')
+f = open('output-specificanswer','r')
 
 x = f.read()
 listofvals=[]
